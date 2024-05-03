@@ -1,0 +1,20 @@
+:root{
+
+--cor-de-fundo:#1E1E1E
+--Verde:#6FFF57
+--branco:#FFFFFF
+--botão-ativo
+}
+ .conteudo-principal {
+    display: flex
+    flex-direction column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+ }
+ .titulo-principal span {
+    color: var(--verde);
+ }
+ 
